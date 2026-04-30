@@ -21,7 +21,3 @@ Autolingo is an unofficial, open-source Chrome extension that helps automate Duo
 - It may violate Duolingo's terms of service, so only use it on accounts where you accept that risk.
 - The extension is provided as-is with no warranties.
 
-## Notes
-- All payment-related code has been removed; this version is intended for open-source use only.
-- The extension only runs on `*.duolingo.com` pages.
-
