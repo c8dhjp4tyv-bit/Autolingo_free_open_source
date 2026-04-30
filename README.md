@@ -7,6 +7,13 @@ Autolingo is an unofficial, open-source Chrome extension that helps automate Duo
 - Free and open-source: no payment gateway, no subscriptions.
 
 ## Installation
+1.Install the crx file from realeses
+2.Go to chrome://extensions
+3.Enable developer mode
+4.Drag the .crx file to extensions tab
+
+OR
+
 1. Open `chrome://extensions` in Chrome.
 2. Enable **Developer mode**.
 3. Click **Load unpacked**.
