@@ -1,4 +1,4 @@
-# <img src="./images/diamond-league.png" width="30" title="hover text"> Autolingo
+ Autolingo
 Autolingo is an unofficial, open-source Chrome extension that helps automate Duolingo lessons.
 
 ## About
