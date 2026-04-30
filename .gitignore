@@ -1,0 +1,18 @@
+# Extension build artifacts
+*.crx
+*.zip
+*.sig
+*.pub.der
+
+# Private signing keys
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Chrome generated metadata
+_metadata/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
