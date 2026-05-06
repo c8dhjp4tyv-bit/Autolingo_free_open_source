@@ -1,3 +1,7 @@
+⭐ If this helped you, please star the repo!
+ 
+ 
+ 
  Autolingo
 Autolingo is an unofficial, open-source Chrome extension that helps automate Duolingo lessons.
 
