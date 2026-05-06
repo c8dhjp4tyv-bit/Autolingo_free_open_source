@@ -28,3 +28,12 @@ OR
 - It may violate Duolingo's terms of service, so only use it on accounts where you accept that risk.
 - The extension is provided as-is with no warranties.
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=c8dhjp4tyv-bit%2FAutolingo_free_open_source&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=c8dhjp4tyv-bit/Autolingo_free_open_source&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=c8dhjp4tyv-bit/Autolingo_free_open_source&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=c8dhjp4tyv-bit/Autolingo_free_open_source&type=date&legend=top-left" />
+ </picture>
+</a>
